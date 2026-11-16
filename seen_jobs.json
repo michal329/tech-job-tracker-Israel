@@ -138,5 +138,55 @@
     "url": "https://job-boards.eu.greenhouse.io/wedev/jobs/4871703101",
     "experience": "Junior level role accepting entry-level candidates",
     "discovered_at": "2026-11-16T01:02:06.137935"
+  },
+  {
+    "company": "apple",
+    "title": "Junior Wireless SoC Design Verification Engineer",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Israel",
+    "url": "https://jobs.apple.com/en-il/details/200694073-0881/junior-wireless-soc-design-verification-engineer?team=HRDWR",
+    "experience": "Junior role accepting entry-level candidates",
+    "discovered_at": "2026-11-16T15:07:31.143316"
+  },
+  {
+    "company": "Fullpath",
+    "title": "Fullstack Engineer - CDP Israel: Tel Aviv More Details",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Tel Aviv",
+    "url": "https://www.fullpath.com/careers/co/israel-tel-aviv/6C.478/fullstack-engineer-cdp/all/",
+    "experience": "Junior/Flexible backend engineering role focusing on AI workflow integration without strict multi-year experience minimums.",
+    "discovered_at": "2026-11-16T15:15:07.038985"
+  },
+  {
+    "company": "KPMG",
+    "title": "GenAI Engineer תל אביב Technology consulting More details",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Tel Aviv",
+    "url": "https://kpmg.co.il/technologyconsulting/careers/jobs/genai-engineer",
+    "experience": "2+ years of experience in AI/ML development",
+    "discovered_at": "2026-11-16T15:20:50.544511"
+  },
+  {
+    "company": "opisoft",
+    "title": "Data Analyst – SQL & Reporting",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Center, Israel",
+    "url": "https://opisoft.com/career/data-analyst-sql-reporting/",
+    "experience": "2 years of experience required",
+    "discovered_at": "2026-11-16T15:44:06.211708"
+  },
+  {
+    "company": "opisoft",
+    "title": "Data Platform Engineer",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Center, Israel",
+    "url": "https://opisoft.com/career/data-platform-engineer/",
+    "experience": "2 years of experience required",
+    "discovered_at": "2026-11-16T15:44:06.211743"
   }
 ]
