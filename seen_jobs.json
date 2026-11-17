@@ -188,5 +188,65 @@
     "url": "https://opisoft.com/career/data-platform-engineer/",
     "experience": "2 years of experience required",
     "discovered_at": "2026-11-16T15:44:06.211743"
+  },
+  {
+    "company": "Dialog",
+    "title": "Data Analyst",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Israel",
+    "url": "https://www.dialog.co.il/high-tech/jobs/data/data-analyst",
+    "experience": "Mentions role suitability for entry level/beginners as well as experienced professionals.",
+    "discovered_at": "2026-11-17T01:45:13.567821"
+  },
+  {
+    "company": "Dialog",
+    "title": "מתכנת Python",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Israel",
+    "url": "https://www.dialog.co.il/high-tech/jobs/software/python-developer",
+    "experience": "General professional track for Python developers, open to varying experience levels.",
+    "discovered_at": "2026-11-17T01:45:13.567850"
+  },
+  {
+    "company": "opisoft",
+    "title": "BI and ETL Developer",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Petah Tikva / Center, Israel",
+    "url": "https://opisoft.com/career/bi-and-etl-developer/",
+    "experience": "2 years experience",
+    "discovered_at": "2026-11-17T01:51:21.633945"
+  },
+  {
+    "company": "opisoft",
+    "title": "Data Analyst – Python & Data Quality",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Center district (Merkaz)",
+    "url": "https://opisoft.com/career/data-analyst-python-data-quality/",
+    "experience": "Not specified explicitly, accepting entry/junior level",
+    "discovered_at": "2026-11-17T01:51:29.621707"
+  },
+  {
+    "company": "Logica-it",
+    "title": "מפתח/ת תוכנה BACKEND ירושלים יו\"ש",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Jerusalem",
+    "url": "https://logica-it.com/jobs/21015/",
+    "experience": "2 – 3 years required, border/close to entry level, accepted within flexible junior consideration, but let's check exact phrasing: '2 – 3 years לפחות'",
+    "discovered_at": "2026-11-17T01:52:10.664154"
+  },
+  {
+    "company": "Shavit Software",
+    "title": "Data Analyst",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Bnei Brak",
+    "url": "https://shavit-soft.co.il/jobs/data-analyst/",
+    "experience": "At least 1 year of experience as an analyst",
+    "discovered_at": "2026-11-17T01:53:12.022652"
   }
 ]
